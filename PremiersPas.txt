@@ -2,6 +2,9 @@ Header / Ceci est ma premiere ligne
 Toto
 3eme ligne
 Nouvelle fonctionnalité
+<<<<<<< HEAD
 Script un peu fou
 Titi
 Test
+=======
+>>>>>>> parent of ce5a3ea (script un eu fou)
