@@ -1,7 +1,10 @@
 Header / Ceci est ma premiere ligne
 Toto
 3eme ligne
+<<<<<<< HEAD
 Nouvelle fonctionnalité
 Script un peu fou
 Titi
 Test
+=======
+>>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
