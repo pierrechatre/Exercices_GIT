@@ -6,7 +6,7 @@ Toto
 <<<<<<< HEAD
 Nouvelle fonctionnalité
 Script un peu fou
-Titi
+Toto
 Test
 =======
 >>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
