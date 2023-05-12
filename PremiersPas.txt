@@ -1,15 +1,1 @@
-Ceci est ma premiere ligne
-tata
-Toto
-53eme ligne
-<<<<<<< HEAD
-<<<<<<< HEAD
-Nouvelle fonctionnalité
-Script un peu fou
-Toto
-Test
-=======
->>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
-=======
->>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
-Nouveau
+Nouvelle branche ou pas
