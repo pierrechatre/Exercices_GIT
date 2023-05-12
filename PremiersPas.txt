@@ -1,15 +1,1 @@
-Header / Ceci est ma premiere ligne
-titi
-Toto
-43eme ligne
-<<<<<<< HEAD
-<<<<<<< HEAD
-Nouvelle fonctionnalité
-Script un peu fou
-Toto
-Test
-=======
->>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
-=======
->>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
-Nouveau
+nouveau fichier de la branche
