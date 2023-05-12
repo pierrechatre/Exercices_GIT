@@ -11,3 +11,4 @@ Test
 >>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
 =======
 >>>>>>> parent of e621258 (Ajout nouvelle fonctionnalite)
+Nouveau
